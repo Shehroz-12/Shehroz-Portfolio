@@ -13,6 +13,8 @@ import figma from "./tech/figma.png";
 import gearXpert from './shift.png';
 import project3 from './smg.png';
 import project2 from './project1.png'
+import project4 from './cim.png'
+import project5 from './KrispX.png'
 import mysql from './tech/mysql.png';
 import express from './tech/express.png';
 import aws from './tech/aws.png';
@@ -43,6 +45,8 @@ export {
   gearXpert,
   project2,
   project3,
+  project4,
+  project5,
   mysql,
   express,
   aws,

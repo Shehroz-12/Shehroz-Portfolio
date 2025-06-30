@@ -12,6 +12,8 @@ import {
   gearXpert,
   project2,
   project3,
+  project4,
+  project5,
   mysql,
   express,
   aws,
@@ -185,7 +187,7 @@ const experiences = [
     company_name: "XCon Technologies",
     icon: xcon,
     iconBg: "#383E56",
-    date: "07/2024 - Present",
+    date: "07/2024 - 07/2025",
     points: [
       "Developed Xcon Technology's official website using Next.js, collaborating with a team to ensure a responsive and dynamic user experience.",
       "Built a project management tool using Next.js, aimed at enhancing task tracking and team collaboration.",
@@ -224,9 +226,54 @@ const testimonials = [
 
 const projects = [
   {
+    name: "CIM Dutch AI Technology",
+    description:
+      "CIM ONLINE is a revolutionary platform designed to support customers and partners, such as ERP providers, in automating their accounting and administrative processes.",
+    tags: [
+      {
+        name: "Next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "white-text-gradient",
+      },
+      {
+        name: "Strapi",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Zoho SalesIQ",
+        color: "green-text-gradient",
+      },
+ 
+    ],
+    image: project4,
+    source_code_link: "https://cimonline.eu",
+  },
+  {
+    name: "KrispX",
+    description:
+      "Where Collectors & Enthusiasts Meet.",
+    tags: [
+      {
+        name: "Next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "white-text-gradient",
+      },
+   
+ 
+    ],
+    image: project5,
+    source_code_link: "https://krispx.com/",
+  },
+  {
     name: "XCon Technologies",
     description:
-      "XCon Technologies is a leading digital solutions company offering a wide range of services including web development, app development, software solutions, digital marketing, UI/UX design, and IT consulting — all tailored to meet modern business needs.",
+      "XCon Technologies is a leading digital solutions company offering a wide range of services.",
     tags: [
       {
         name: "Next.js",
