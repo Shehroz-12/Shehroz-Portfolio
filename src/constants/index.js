@@ -14,6 +14,8 @@ import {
   project3,
   project4,
   project5,
+  project6,
+  project7,
   mysql,
   express,
   aws,
@@ -225,6 +227,51 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "VoxiX (formerly Twitter) social listening tool Website",
+    description:
+      "VoxiX: AI-powered social-listening tool for X (formerly Twitter)—automatically collects and analyzes all mentions, performs sentiment analysis, and exports insights via CSV.",
+    tags: [
+      {
+        name: "Next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "white-text-gradient",
+      },
+      {
+        name: "Stripe",
+        color: "pink-text-gradient",
+      },
+     
+ 
+    ],
+    image: project6,
+    source_code_link: "https://voxix.org/",
+  },
+  {
+    name: "VoxiX (formerly Twitter) social listening tool",
+    description:"VoxiX Tool A secure and responsive login gateway for VoxiX users, featuring email/password authentication, password recovery, and a clean branded interface.Monitoring: Automatically gathers all brand mentions—even those you don’t get notified about.",
+    tags: [
+      {
+        name: "Next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "white-text-gradient",
+      },
+      {
+        name: "Python",
+        color: "pink-text-gradient",
+      },
+     
+ 
+    ],
+    image: project7,
+    source_code_link: "tool.voxix.org",
+  },
   {
     name: "CIM Dutch AI Technology",
     description:

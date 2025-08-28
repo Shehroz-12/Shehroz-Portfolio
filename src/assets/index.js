@@ -15,6 +15,8 @@ import project3 from './smg.png';
 import project2 from './project1.png'
 import project4 from './cim.png'
 import project5 from './KrispX.png'
+import project6 from './projecct6.png'
+import project7 from './project7.png'
 import mysql from './tech/mysql.png';
 import express from './tech/express.png';
 import aws from './tech/aws.png';
@@ -47,6 +49,8 @@ export {
   project3,
   project4,
   project5,
+  project6,
+  project7,
   mysql,
   express,
   aws,
