@@ -252,7 +252,7 @@ const projects = [
   },
   {
     name: "VoxiX (formerly Twitter) social listening tool",
-    description:"VoxiX Tool A secure and responsive login gateway for VoxiX users, featuring email/password authentication, password recovery, and a clean branded interface.Monitoring: Automatically gathers all brand mentions—even those you don’t get notified about.",
+    description:"VoxiX Tool A secure and responsive login gateway for VoxiX users, featuring email/password authentication, password recovery, and a clean branded interface.Monitoring: Automatically gathers all brand mentions",
     tags: [
       {
         name: "Next.js",
