@@ -270,7 +270,7 @@ const projects = [
  
     ],
     image: project7,
-    source_code_link: "tool.voxix.org",
+    source_code_link: "https://tool.voxix.org",
   },
   {
     name: "CIM Dutch AI Technology",
